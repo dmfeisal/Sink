@@ -23,10 +23,6 @@ useSeoMeta({
         <p class="mt-6 max-w-lg text-base leading-7 text-muted-foreground sm:text-lg">
           The link may have changed, expired, or been mistyped.
         </p>
-        <div class="mt-10 flex flex-wrap gap-x-6 gap-y-3 text-sm">
-          <NuxtLink class="underline underline-offset-4 hover:no-underline" to="/">Go to dae.ng</NuxtLink>
-          <a class="underline underline-offset-4 hover:no-underline" href="https://feisal.id">Visit portfolio</a>
-        </div>
       </div>
     </main>
   </NuxtLayout>
